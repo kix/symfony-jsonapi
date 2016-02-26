@@ -433,7 +433,7 @@ The following `JsonApiResponseTrait` methods are provided to return the right he
     private function response($json);
     private function unsupportedActionResponse($json);
 ```    
-## Integration with NelmioApiDocBundleBundle
+## Integration with NelmioApiDocBundle
 
 The [NelmioApiDocBundle](https://github.com/nelmio/NelmioApiDocBundle/blob/master/Resources/doc/index.md) is a very well known bundle used to document APIs. Integration with the current bundle is terrible easy. 
 
